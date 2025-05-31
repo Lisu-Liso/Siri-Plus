@@ -2,7 +2,7 @@
 用于存放最新的更新链接，官方文档，讨论支持等
 ---
 # Link
-Click here to use our product!You need "Shortcut" on your iPhone.
+[Click here to use our product!You need "Shortcut" on your iPhone.](https://www.icloud.com/shortcuts/4d6b384b222843979ec2c24be0b1b551)
 # 链接
 点击这里来使用我们的产品。你需要在你的iPhone上安装“快捷指令”。
 # You can translate infos next with your browser.
