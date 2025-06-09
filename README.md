@@ -6,11 +6,11 @@
 
 # Link
 
-[Click here to use our product!You need "Shortcut" on your iPhone.](https://www.icloud.com/shortcuts/4d6b384b222843979ec2c24be0b1b551)
+[Click here to use our product!You need "Shortcut" on your iPhone.](https://www.icloud.com/shortcuts/f420d9f172424e2ba8db2dc3440658b7)
 
 # 链接
 
-[点击这里来使用我们的产品。你需要在你的iPhone上安装“快捷指令”。](https://www.icloud.com/shortcuts/4d6b384b222843979ec2c24be0b1b551)
+[点击这里来使用我们的产品。你需要在你的iPhone上安装“快捷指令”。](https://www.icloud.com/shortcuts/f420d9f172424e2ba8db2dc3440658b7)
 
 # You can translate infos next with your browser.
 
